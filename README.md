@@ -8,7 +8,7 @@ Aqui estão organizados os projetos realizados durante as formações.
 
 ## 📂 Lista de Projetos:
 
-- **Fundamentos em Power BI** - 
+- **Fundamentos em Power BI** - Analisando dados de um Dashboard de Vendas no Power BI
 
 
   - Cada pasta contém o código-fonte e arquivos necessários para execução
